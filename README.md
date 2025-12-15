@@ -1,4 +1,6 @@
-**A Practical, conservative OpenCV pipeline** specifically tuned for (extremely dark, high-contrast, cinematic lighting) image types. 
+<h1>Visibility Enhancer 1.0</h1>
+
+A Practical, conservative OpenCV pipeline specifically tuned for (extremely dark, high-contrast, cinematic lighting) image types. 
 
 The goal is visibility improvement without hallucination or noise explosion. It's not a filter, this is production-safe code. 
 
