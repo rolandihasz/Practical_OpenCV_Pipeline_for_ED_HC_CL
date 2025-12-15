@@ -1,4 +1,4 @@
-A Practical, conservative OpenCV pipeline specifically tuned for (extremely dark, high-contrast, cinematic lighting) image types. 
+**A Practical, conservative OpenCV pipeline** specifically tuned for (extremely dark, high-contrast, cinematic lighting) image types. 
 
 The goal is visibility improvement without hallucination or noise explosion. It's not a filter, this is production-safe code. 
 
@@ -38,5 +38,3 @@ Bilateral filter
 
 Next: (Under Development)
 An upgraded version with Automatic subject masking + new enhancement (Python / OpenCV)
-
-WTFPL
